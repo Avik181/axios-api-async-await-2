@@ -1,2 +1,2 @@
-# axios-api-async-await-2
+# axios-api-async-await
 Created with CodeSandbox
